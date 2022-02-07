@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524028652629",
+    "project_id": "ekart-18062",
+    "storage_bucket": "ekart-18062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524028652629:android:02b922319a3f297dbaf8dc",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524028652629-nq7of9arer2f91jrqh2q811ou8odessq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cxaLJ0D12KXaVbe6yW1m64jvWgNSDX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524028652629-nq7of9arer2f91jrqh2q811ou8odessq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
